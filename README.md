@@ -12,3 +12,5 @@ A simple HTML & CSS project that displays electronics items in a structured tabl
 ### Tech Used
 - HTML5
 - CSS3
+
+Site is live at https://priyanshjain08.github.io/Project-Table/
